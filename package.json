@@ -1,6 +1,6 @@
 {
   "name": "@civ-clone/base-unit-movement",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A ruleset's MovementCost rules from its numbers: moving by terrain, aircraft and ships, routes, cargo carried free, orders and terrain jobs.",
   "repository": "git@github.com:civ-clone/base-unit-movement.git",
   "keywords": [

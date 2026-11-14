@@ -1,0 +1,20 @@
+[
+  ["civ1-unit:unit/movement-cost/move", "MovementCost", 2000, 3],
+  ["civ1-unit:unit/movement-cost/air-and-naval", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/road", "MovementCost", 2000, 4],
+  ["civ1-unit:unit/movement-cost/railroad", "MovementCost", 2000, 4],
+  ["civ1-unit:unit/movement-cost/transported", "MovementCost", 2000, 4],
+  ["civ1-unit:unit/movement-cost/transported/air", "MovementCost", 2000, 4],
+  ["civ1-unit:unit/movement-cost/action/Fortify", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/Pillage", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/Sleep", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/BuildIrrigation", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/BuildMine", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/BuildRoad", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/BuildRailroad", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/CleanPollution", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/ClearForest", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/ClearJungle", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/ClearSwamp", "MovementCost", 2000, 2],
+  ["civ1-unit:unit/movement-cost/action/PlantForest", "MovementCost", 2000, 2]
+]
